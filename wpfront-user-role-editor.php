@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Plugin Name: WPFront User Role Editor
+ * Plugin Name: WPFront User Role Editor | Chỉnh sửa bởi Tuấn Sữa
  * Plugin URI: http://wpfront.com/user-role-editor-pro/ 
  * Description: Allows you to manage user roles.
  * Version: 2.14.3
